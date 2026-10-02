@@ -1,0 +1,7 @@
+case_id,shape,length_ft,width_ft,width_in,thickness_in,diameter_in,height_ft,input_summary,in_pilot
+C01,slab,10,10,,4,,,slab 10 ft x 10 ft x 4 in,yes
+C02,slab,24,16,,5,,,slab 24 ft x 16 ft x 5 in,no
+C03,slab,12,12,,6,,,slab 12 ft x 12 ft x 6 in,no
+C04,strip_footing,20,,16,8,,,strip footing 20 ft long x 16 in wide x 8 in deep,yes
+C05,round_column,,,,,12,4,round column 12 in diameter x 4 ft high,yes
+C06,slab,10,10,,4.5,,,slab 10 ft x 10 ft x 4.5 in,no
