@@ -100,7 +100,7 @@ quikrete.com displays no volume and is not in this table.
 
 - 61 of the 63 volume readings equal the reference rounded to the precision the tool displays: 2 decimals, or 3 for teamelmers.com C05 (0.116, -0.3 %). The largest of these gaps is 0.0046 cu yd (C01, -0.4 %). On C05, display rounding alone gives +3.1 % (0.1164 to 0.12).
 - concretenetwork.com C01: 1.24 (+0.0054 cu yd, +0.4 %). Nearest rounding gives 1.23.
-- ozinga.com C06: 1.23 (-0.1589 cu yd, -11.4 %). 4.5 was typed in the depth field (inches). The field is `type=number` with no `step`, and its value read back is 4. The result card shows "Depth: 4 in." and the volume of a 4 in slab.
+- ozinga.com C06: 1.23 (-0.1589 cu yd, -11.4 %). 4.5 was typed in the depth field (inches). The field is `type=number` with no `step`, and its value read back is 4. The result card shows "Depth: 4 in." and the volume of a 4 in slab: 1.23 equals the tool's own C01 reading (10 x 10 ft x 4 in).
 
 ## Order quantity (output_order_cuyd), where a tool shows one apart from the volume
 | case | takeoffmetric.com | volumeconcrete.com | smyrnareadymix.com |
