@@ -7,8 +7,9 @@ Published by TakeoffMetric Editorial ([takeoffmetric.com](https://takeoffmetric.
 - Contact: contact@takeoffmetric.com (see "Right of reply" below).
 - Not affiliated with the tools tested.
 
-<!-- OWN-SITE: to finalise after the D139 deploy -->
 takeoffmetric.com is the publisher of this benchmark and is measured with the same protocol; its `output_cuyd` is the net volume. Tool page: [https://takeoffmetric.com/concrete/concrete-calculator/](https://takeoffmetric.com/concrete/concrete-calculator/).
+
+The benchmark found an inconsistency on the publisher's own site: on 2026-10-01 the slab sheet labelled the volume with its 10 % waste allowance "Concrete volume" (1.36 cu yd for case C01), while its takeoff table and its footing sheet gave the net volume (1.23) under the same label. The fix went live on 2026-10-12 and is listed on the [Corrections page](https://takeoffmetric.com/corrections/): "Concrete volume" is now the net volume on every sheet, and the waste is carried by the order quantity, the bag count and the truck loads. Re-read on the live site on 2026-10-12, the four slab cases (C01, C02, C03, C06) show the same net volumes and order quantities as the rows of this dataset.
 
 ## What the dataset is
 The dataset records the volumes that free online concrete calculators display for 6 fixed inputs, next to a reference volume computed independently. Rows were collected on 2026-10-01 and replayed on 2026-10-02, in a United States English browser session. The dataset reports numbers only. It does not rate the tools.
