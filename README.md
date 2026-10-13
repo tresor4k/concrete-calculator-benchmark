@@ -5,7 +5,7 @@ Published by TakeoffMetric Editorial ([takeoffmetric.com](https://takeoffmetric.
 - License of the data: Creative Commons Attribution 4.0 International (CC BY 4.0), full text in `LICENSE`.
 - Suggested citation: TakeoffMetric Editorial, Concrete calculator benchmark, 2026, takeoffmetric.com.
 - Contact: contact@takeoffmetric.com (see "Right of reply" below).
-- Not affiliated with the tools tested.
+- Not affiliated with the other 11 tools tested.
 
 takeoffmetric.com is the publisher of this benchmark and is measured with the same protocol; its `output_cuyd` is the net volume. Tool page: [https://takeoffmetric.com/concrete/concrete-calculator/](https://takeoffmetric.com/concrete/concrete-calculator/).
 
