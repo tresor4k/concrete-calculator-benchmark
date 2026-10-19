@@ -1,0 +1,7 @@
+case_id,shape,input_summary,engine_cuft,independent_cuft,abs_diff_cuft,reference_cuft,reference_cuyd
+C01,slab,slab 10 ft x 10 ft x 4 in,33.33333333333333,33.33333333333333,0.00e+0,33.333333333,1.234567901
+C02,slab,slab 24 ft x 16 ft x 5 in,160,160,0.00e+0,160.000000000,5.925925926
+C03,slab,slab 12 ft x 12 ft x 6 in,72,72,0.00e+0,72.000000000,2.666666667
+C04,strip_footing,strip footing 20 ft long x 16 in wide x 8 in deep,17.777777777777775,17.777777777777775,0.00e+0,17.777777778,0.658436214
+C05,round_column,round column 12 in diameter x 4 ft high,3.1415926535897922,3.141592653589793,8.88e-16,3.141592654,0.116355283
+C06,slab,slab 10 ft x 10 ft x 4.5 in,37.5,37.5,0.00e+0,37.500000000,1.388888889

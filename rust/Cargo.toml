@@ -1,0 +1,16 @@
+[package]
+name = "concrete-calculator-benchmark"
+version = "0.1.0"
+edition = "2021"
+authors = ["TakeoffMetric Editorial <contact@takeoffmetric.com>"]
+description = "The 6 input cases and reference volumes (cu ft, cu yd) of the TakeoffMetric concrete calculator benchmark, with a runner to check a volume function against them."
+license = "MIT"
+readme = "README.md"
+homepage = "https://takeoffmetric.com/concrete/concrete-calculator/"
+documentation = "https://docs.rs/concrete-calculator-benchmark"
+repository = "https://github.com/tresor4k/concrete-calculator-benchmark"
+keywords = ["concrete", "construction", "benchmark", "volume", "estimating"]
+categories = ["science", "development-tools::testing"]
+include = ["src/**", "examples/**", "tests/**", "data/**", "README.md", "LICENSE", "Cargo.toml"]
+
+[dependencies]
